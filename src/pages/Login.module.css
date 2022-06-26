@@ -1,0 +1,32 @@
+.form {
+    margin: 5rem auto;
+    width: 100%;
+    max-width: 23rem;
+    border-radius: 6px;
+    background-color: #ffffff;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    color: #000000;
+    border-top: 5px solid #2cb1bc;
+  }
+  .form__header {
+    text-align: center;
+  }
+  .form__header h1 {
+    color: #2cb1bc;
+    margin: 1rem;
+  }
+  .form__header h2 {
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 1.7rem;
+    
+  }
+
+  .form__inputs{
+    padding: 2rem;
+  }
+
+
+ 
+

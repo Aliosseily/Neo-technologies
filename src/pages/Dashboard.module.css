@@ -1,0 +1,18 @@
+.button__container{
+width: 20%;
+}
+.weather__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #2cb1bc;
+    padding: 2rem;
+    font-size: 2rem;
+    gap: 1rem;
+    border-radius: 20px;
+    
+}
+.weather__container_country{
+    font-size: 3rem;
+}

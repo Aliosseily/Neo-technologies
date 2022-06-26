@@ -1,0 +1,22 @@
+[
+    {"id":"1", "restaurantId":"1", "number":"100", "location":"outdoor"},
+    {"id":"2", "restaurantId":"1", "number":"101", "location":"indoor"},
+    {"id":"3", "restaurantId":"1", "number":"102", "location":"outdoor"},
+    {"id":"4", "restaurantId":"1", "number":"103", "location":"indoor"},
+
+    {"id":"5", "restaurantId":"2", "number":"201", "location":"outdoor"},
+    {"id":"6", "restaurantId":"2", "number":"202", "location":"indoor"},
+    {"id":"7", "restaurantId":"2", "number":"203", "location":"outdoor"},
+    {"id":"8", "restaurantId":"2", "number":"204", "location":"outdoor"},
+
+    {"id":"9", "restaurantId":"3", "number":"301", "location":"outdoor"},
+    {"id":"10", "restaurantId":"3", "number":"302", "location":"indoor"},
+    {"id":"11", "restaurantId":"3", "number":"303", "location":"outdoor"},
+    {"id":"12", "restaurantId":"3", "number":"304", "location":"indoor"},
+
+    {"id":"13", "restaurantId":"4", "number":"401", "location":"outdoor"},
+    {"id":"14", "restaurantId":"4", "number":"402", "location":"indoor"},
+    {"id":"15", "restaurantId":"4", "number":"403", "location":"outdoor"},
+    {"id":"16", "restaurantId":"4", "number":"404", "location":"outdoor"}
+
+]
