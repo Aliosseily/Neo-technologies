@@ -9,6 +9,7 @@ import Navbar from "./components/Navbar";
 
 function App() {
   const { isAthenticated } = useSelector((state) => state.auth);
+
   return (
     <div>
       {!isAthenticated && (

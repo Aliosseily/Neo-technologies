@@ -16,3 +16,7 @@ width: 20%;
 .weather__container_country{
     font-size: 3rem;
 }
+
+.error{
+    color: red;
+}

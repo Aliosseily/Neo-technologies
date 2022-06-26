@@ -17,6 +17,7 @@
 .card__back{
     margin: 1rem 0;
     cursor: pointer;
+    width: 60px;
 }
 .card__back:hover{
     opacity: 0.8;
